@@ -2,6 +2,16 @@
 
 Construct custom files with ease.
 
+## Porting
+
+| Language |    Available   |
+|----------|----------------|
+| Java     | Yes (Fully)    |
+| Python   | Yes            |
+| C++      | Planned        |
+| Rust     | Planned        |
+
+
 
 ## Example
 
